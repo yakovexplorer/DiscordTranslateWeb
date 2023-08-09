@@ -7,10 +7,14 @@
         "**/.DS_Store": true,
         "**/Thumbs.db": true,
         "static/css/base.css": true,
-        "static/css/base.css.map": true
+        "static/css/base.css.map": true,
+        "tlweb/static/css/base.css": true,
+        "tlweb/static/css/base.css.map": true
     },
     "hide-files.files": [
         "static/css/base.css",
-        "static/css/base.css.map"
+        "static/css/base.css.map",
+        "tlweb/static/css/base.css",
+        "tlweb/static/css/base.css.map"
     ]
 }
