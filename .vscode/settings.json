@@ -5,7 +5,12 @@
         "**/.hg": true,
         "**/CVS": true,
         "**/.DS_Store": true,
-        "**/Thumbs.db": true
+        "**/Thumbs.db": true,
+        "static/css/base.css": true,
+        "static/css/base.css.map": true
     },
-    "hide-files.files": []
+    "hide-files.files": [
+        "static/css/base.css",
+        "static/css/base.css.map"
+    ]
 }
